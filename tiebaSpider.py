@@ -37,6 +37,7 @@ class TiebaSpider:
         # 寻找标题函数
         def find_title(self):
             pass
+            pass
 
 
 print u"""#百度贴吧爬虫启动...
